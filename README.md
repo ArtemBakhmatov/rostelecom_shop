@@ -9,6 +9,9 @@ npm i -D eslint-config-prettier
 npm i -D eslint-plugin-prettier
 npm i -D prettier
 
+    3. Создание папок
+npm install bootstrap
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
