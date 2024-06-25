@@ -1,3 +1,16 @@
+    ##########   НАСТРОЙКА ПРОЕКТА   ##########
+    1. Инициализация проекта Next.js
+в package.json добавил слово --turbo, выглядит теперь так "dev": "next dev --turbo"
+
+    2. Настройка Eslint/Prettier
+npm i -D @typescript-eslint/eslint-plugin
+npm i -D @typescript-eslint/parser
+npm i -D eslint-config-prettier
+npm i -D eslint-plugin-prettier
+npm i -D prettier
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
