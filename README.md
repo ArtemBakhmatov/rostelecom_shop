@@ -10,7 +10,7 @@ npm i -D eslint-plugin-prettier
 npm i -D prettier
 
     3. Создание папок
-npm install bootstrap
+npm install react-bootstrap bootstrap
 
 
 
