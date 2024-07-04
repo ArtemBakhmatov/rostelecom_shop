@@ -12,6 +12,9 @@ npm i -D prettier
     3. Создание папок
 npm install react-bootstrap bootstrap
 
+##########   ОБЩИЕ КОМПОНЕНТЫ   ##########
+    1. header
+npm install effector effector-react
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
